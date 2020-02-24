@@ -19,9 +19,7 @@
             <td rowspan="4">
                 <a href="https://github.com/MajedBojan">ماجد بوجان</a>
             </td>
-            <td>
             <td>حضرموت</td>
-            </td>
             <td>
                 <a href="https://github.com/MajedBojan/simple_request">simple_request</a>
             </td>
