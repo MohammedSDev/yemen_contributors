@@ -16,17 +16,16 @@
             <th>الوصف</th>
         </tr>
         <tr>
-            <td rowspan="4">
+            <td rowspan="2">
                 <a href="https://github.com/MajedBojan">ماجد بوجان</a>
             </td>
-            <td>حضرموت</td>
+            <td rowspan="2">حضرموت</td>
             <td>
                 <a href="https://github.com/MajedBojan/simple_request">simple_request</a>
             </td>
             <td> لارسال الطلبات عبر HTTP و HTTPS اسمهل باستخدام لغة روبي</td>
         </tr>
         <tr>
-            <td></td>
             <td>
                 <a href="https://github.com/MajedBojan/mobily-sms">mobily-sms</a>
             </td>
